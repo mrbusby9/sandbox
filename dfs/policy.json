@@ -3,7 +3,7 @@
     "Id":"key-consolepolicy-2",
     "Statement":[
         {
-            "Sid":"Enable IAM User Permissions",
+            "Sid":"Enable IAM User Matt Permissions",
             "Effect":"Allow",
             "Principal": {
                 "AWS":"arn:aws:iam::365382922369:root"
